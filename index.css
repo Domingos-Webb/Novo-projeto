@@ -1,0 +1,170 @@
+body{
+    background-color:white;
+}.menu{
+    background-color:black;
+position: relative;
+bottom: 20px;
+right: 8px;
+width: 1374px;
+}.conteiner ul{
+    color: brown;
+    display: flex;
+    flex-direction: row-reverse;
+    padding-bottom: 43px;
+    position: relative;
+    top: 33px;
+    right: 60px;
+    
+}ul li {
+    list-style: none;
+    text-decoration: none;
+    padding-left: 45px;
+    font-size: 20px;
+    position: relative;
+    bottom: 19px;
+    
+}ul li a{
+    list-style: none;
+    text-decoration: none;
+    color:white;
+    font-style: italic;
+    
+    padding: 8px;
+    padding-right: 19px;
+    border-radius: 10px;
+    transition: 0.6s;
+
+}ul li a:hover{
+    background-color: rgb(127, 184, 43);
+    
+}.logo img{
+    position: relative;
+    top: 60px;
+    left: 50px;
+    
+} main {
+    background-image: linear-gradient(to right,blue, 90px, black);
+    width: 1365px;
+    height: 830px;
+    position: relative;
+    right: 8px;
+}.img{
+    position: relative;
+    bottom: 250px;
+    right: 20px;
+}.seja{
+    float: right;
+    position: relative;
+    top: -10px;
+    right: 70px;
+    width: 580px;
+    color: white;
+    font-style: italic;
+    font-size: 60px;
+}.c{
+    background-color: greenyellow;
+    padding: 8px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 7px;
+    position: relative;
+    bottom: 27px;
+    left: 29px;
+    border-radius:14px;
+    transition: 0,9s;
+    
+}.c :hover{
+    background-color:rgb(96, 143, 26);
+    color: rgb(255, 255, 255);
+    
+    
+
+}.com{
+    float: right;
+    position: relative;
+    left: 400px;
+    top: 311px;
+    width: 450px;
+    font-size: 30px;
+    color: white;
+    font-weight: normal;
+}.ss{
+    float: right;
+    position: relative;
+    left: 410px;
+    top: 290px;
+    color: white;
+}.especialista{
+    position: relative;
+    left: 950px;
+    bottom: 310px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    background-color: blueviolet;
+    width: 30px;
+    padding: 15px;
+    transition: 0.7s;
+
+}.especialista:hover{
+    background-color: rgb(66, 29, 100);
+    
+    
+}.promo{
+    text-align: center;
+    width: 399px;
+    height:600px ;
+    background-color: aquamarine;
+    position: relative;
+    bottom: 310px;
+    font-size: 50px;
+
+}.reduza{
+    width: 500px;
+    position: relative;
+    left: 700px;
+    bottom: 800px;
+    font-size: 25px;
+    font-weight: lighter;
+}.tenha{
+    width: 500px;
+    position: relative;
+    left: 700px;
+    bottom:750px;
+    font-size: 25px;
+    font-weight: lighter;
+}.elimine{
+    width: 500px;
+    position: relative;
+    left: 700px;
+    bottom:700px;
+    font-size: 25px;
+    font-weight: lighter;
+}.conquiste{
+    width: 500px;
+    position: relative;
+    left: 700px;
+    bottom:650px;
+    font-size: 25px;
+    font-weight: lighter;
+}.cash{
+    position: relative;
+    left: 640px;
+    bottom: 872px;
+}.stock{
+    position: relative;
+    left: 640px;
+    bottom:825px;
+
+}.gold{
+    position: relative;
+    left: 640px;
+    bottom:769px;
+}.cash1{
+    position: relative;
+    left: 640px;
+    bottom:725px;
+}
+
+    
